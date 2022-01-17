@@ -1,0 +1,1 @@
+# java_animal-sniffer-mvn-plugin
